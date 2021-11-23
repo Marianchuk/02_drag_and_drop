@@ -1,11 +1,11 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+@import url("https://fonts.googleapis.com/css?family=Roboto&display=swap");
 
 * {
   box-sizing: border-box;
 }
 
 body {
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   background-color: #e5e5e5;
   display: flex;
   padding-top: 5rem;
@@ -64,13 +64,13 @@ body {
 }
 
 .hold {
-    border: 7px solid #68e0cf;
+  border: 7px solid #68e0cf;
 }
 
 .hide {
-    display: none;
+  display: none;
 }
 
 .hovered {
-    border-top: 2px solid #209cff;
+  border-top: 2px solid #209cff;
 }
